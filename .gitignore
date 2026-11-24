@@ -1,0 +1,11 @@
+#claude
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Bau der Mac-App (installieren_claude.command)
+.bau_claude/
+# Fassung fuer claude.ai (node web/build.js)
+web/dist/
+# macOS
+.DS_Store
